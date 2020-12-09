@@ -65,17 +65,17 @@ Last year we organized a fringe meeting on the day before FOSDEM 2020 and this
 was well attended with over 50 participants. 
 
 We are seasoned open source developers that maintain a few popular SCA-related
-tools and projects and want to ensure that all FOSS developer in that domain
+tools and projects and want to ensure that all FOSS developers in that domain
 can meet and share.
 
 Looking forward to meet you,
 
 the devroom organizers:
 
-Michael C. Jaeger, Fossology maintainer
-Maximilian Huber, Fossology and SW360 committer
-Philippe Ombredanne, ScanCode and AboutCode maintainer
-Kate Stewart, SPDX and ACT @ Linux Foundation
+* Michael C. Jaeger, Fossology maintainer
+* Maximilian Huber, Fossology and SW360 committer
+* Philippe Ombredanne, ScanCode and AboutCode maintainer
+* Kate Stewart, SPDX and ACT @ Linux Foundation
 
 
 ### How to Apply
