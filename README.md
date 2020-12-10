@@ -29,7 +29,7 @@ software components we reuse, where and how, as well as their origin, licensing,
 vulnerabilities, quality and other important attributes.
 
 Open source SCA tools are emerging as the best way to help determine which FOSS
-software components are used in a software system or application. Their output
+software components are used in a software system or application.
 
 You are an SCA FOSS tool or project contributor, maintainer, or user?
 
