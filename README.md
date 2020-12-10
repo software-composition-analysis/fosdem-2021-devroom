@@ -76,7 +76,7 @@ the devroom organizers:
 * Philippe Ombredanne, ScanCode and AboutCode maintainer
 * Kate Stewart, SPDX and ACT @ Linux Foundation
 * Michael C. Jaeger, FOSSology maintainer, SW360 ...
-* Maximilian Huber, FOSSology maintainer and SW360 and LDBCollector ...
+* Maximilian Huber, FOSSology maintainer and SW360 and LDBCollector
 
 ### How to Apply
 
