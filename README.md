@@ -51,7 +51,7 @@ Free and Open Source software. Some of the topics include in no particular order
   * Package and project metadata collection
   * App and distro dependencies discovery
   * Container and related whole-distro analysis
-* OSS SCA tools consuming a software bill-of-material:
+  * tools producing and consuming a software bill-of-material (SBOM)
   * License and copyright detection and analysis
   * Open data for SCA (packages, vulnerabilities, licenses, etc.)
   * Packages and projects quality metrics
