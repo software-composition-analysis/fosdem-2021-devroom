@@ -57,7 +57,7 @@ Free and Open Source software. Some of the topics include in no particular order
   * Packages and projects quality metrics
   * Vulnerability detection and related security analysis
   * License and security compliance and policies
-* Various data formats for SCA such as package manifests and SBOM
+  * Various data formats for SCA such as package manifests and SBOM
 * New or existing **FOSS tool demo** for any of the above
 
 ### About the organizers
