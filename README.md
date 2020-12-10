@@ -3,11 +3,11 @@
 
 ### Dates and Deadlines
 
-* Submission deadline: Sunday January 3rd, 2021 (Midnight AoE)
-* Selected talks announced by Sunday January 10th, 2021
-* Conference date is 6th or 7th February 2021 all online
-* Talk video submission is mid January (T.B.A.)
-
+* Submission deadline: Sunday December 27th, 2020 (Midnight AoE)
+* Selected talks announced by Thursday December 31st, 2020
+* Talk video submission is Sunday January 17th, 2021
+* Talk video validation is Sunday January 24th, 2021
+* Conference date is likely 7th February 2021 all online (CET)
 
 ### Contact
 
