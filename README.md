@@ -30,7 +30,6 @@ vulnerabilities, quality and other important attributes.
 
 Open source SCA tools are emerging as the best way to help determine which FOSS
 software components are used in a software system or application. Their output
-can be a software bill-of-material (SBOM).
 
 You are an SCA FOSS tool or project contributor, maintainer, or user?
 
