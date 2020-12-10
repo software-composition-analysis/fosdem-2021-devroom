@@ -42,7 +42,6 @@ FOSS toolchain.
 We are interested in all kinds of presentations about SCA-related topics using
 Free and Open Source software. Some of the topics include in no particular order:
 
-* OSS SCA tools producing a software bill-of-material:
   * Code origin detection techniques
   * Code matching and related code similarity detection
   * Static or dynamic binary analysis for provenance and origin
